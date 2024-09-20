@@ -7,6 +7,7 @@ Stability AI open-sourced **SDXL**, allowing you to fine-tune diffusion models t
 Make sure you have the following installed in your environment:
 ```bash
 !pip install replicate
+```
 
 ## Set Up Replicate
 Authenticate by setting your API token as an environment variable.
